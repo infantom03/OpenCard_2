@@ -59,3 +59,19 @@ Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 1
 Element: [[ChromeDriver: chrome on windows (add2ce1a52b35f71f9696b52855a57ce)] -> xpath: //a[normalize-space()='Register']]
 Session ID: add2ce1a52b35f71f9696b52855a57ce
 2024-11-20 18:04:17 INFO  TC001_AccountRegistrationTest:56 - ***** Finished TC001_AccountRegistrationTest *****
+2024-11-20 23:26:15 INFO  TC001_AccountRegistrationTest:15 - ***** Starting TC001_AccountRegistrationTest  ****
+2024-11-20 23:26:15 INFO  TC001_AccountRegistrationTest:21 - Clicked on MyAccount Link.. 
+2024-11-20 23:26:16 INFO  TC001_AccountRegistrationTest:24 - Clicked on Register Link.. 
+2024-11-20 23:26:16 INFO  TC001_AccountRegistrationTest:28 - Providing customer details...
+2024-11-20 23:26:19 INFO  TC001_AccountRegistrationTest:42 - Validating expected message..
+2024-11-20 23:26:19 INFO  TC001_AccountRegistrationTest:47 - Test passed
+2024-11-20 23:26:19 INFO  TC001_AccountRegistrationTest:56 - ***** Finished TC001_AccountRegistrationTest *****
+2024-11-20 23:26:24 INFO  TC002_LoginTest:16 - ****** Startign TC_002_LoginTest *****
+2024-11-20 23:28:59 INFO  TC001_AccountRegistrationTest:15 - ***** Starting TC001_AccountRegistrationTest  ****
+2024-11-20 23:28:59 INFO  TC001_AccountRegistrationTest:21 - Clicked on MyAccount Link.. 
+2024-11-20 23:29:00 INFO  TC001_AccountRegistrationTest:24 - Clicked on Register Link.. 
+2024-11-20 23:29:00 INFO  TC001_AccountRegistrationTest:28 - Providing customer details...
+2024-11-20 23:29:03 INFO  TC001_AccountRegistrationTest:42 - Validating expected message..
+2024-11-20 23:29:03 INFO  TC001_AccountRegistrationTest:47 - Test passed
+2024-11-20 23:29:03 INFO  TC001_AccountRegistrationTest:56 - ***** Finished TC001_AccountRegistrationTest *****
+2024-11-20 23:29:10 INFO  TC002_LoginTest:16 - ****** Startign TC_002_LoginTest *****
