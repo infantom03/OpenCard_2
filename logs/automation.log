@@ -1,0 +1,61 @@
+2024-05-09 06:50:17 INFO  TC001_AccountRegistrationTest:15 - ***** Starting TC001_AccountRegistrationTest  ****
+2024-05-09 06:50:17 INFO  TC001_AccountRegistrationTest:21 - Clicked on MyAccount Link.. 
+2024-05-09 06:50:18 INFO  TC001_AccountRegistrationTest:24 - Clicked on Register Link.. 
+2024-05-09 06:50:18 INFO  TC001_AccountRegistrationTest:28 - Providing customer details...
+2024-05-09 06:50:19 INFO  TC001_AccountRegistrationTest:42 - Validating expected message..
+2024-05-09 06:50:19 INFO  TC001_AccountRegistrationTest:47 - Test passed
+2024-05-09 06:50:19 INFO  TC001_AccountRegistrationTest:56 - ***** Finished TC001_AccountRegistrationTest *****
+2024-05-09 06:50:23 INFO  TC002_LoginTest:16 - ****** Startign TC_002_LoginTest *****
+2024-05-09 06:50:25 INFO  TC002_LoginTest:41 - ****** Finished TC_002_LoginTest *****
+2024-05-09 07:07:24 INFO  TC001_AccountRegistrationTest:15 - ***** Starting TC001_AccountRegistrationTest  ****
+2024-05-09 07:07:24 INFO  TC001_AccountRegistrationTest:21 - Clicked on MyAccount Link.. 
+2024-05-09 07:07:24 INFO  TC001_AccountRegistrationTest:24 - Clicked on Register Link.. 
+2024-05-09 07:07:24 INFO  TC001_AccountRegistrationTest:28 - Providing customer details...
+2024-05-09 07:07:26 INFO  TC001_AccountRegistrationTest:42 - Validating expected message..
+2024-05-09 07:07:26 INFO  TC001_AccountRegistrationTest:47 - Test passed
+2024-05-09 07:07:26 INFO  TC001_AccountRegistrationTest:56 - ***** Finished TC001_AccountRegistrationTest *****
+2024-05-09 07:07:30 INFO  TC002_LoginTest:16 - ****** Startign TC_002_LoginTest *****
+2024-05-09 07:07:32 INFO  TC002_LoginTest:41 - ****** Finished TC_002_LoginTest *****
+2024-05-09 07:10:46 INFO  TC001_AccountRegistrationTest:15 - ***** Starting TC001_AccountRegistrationTest  ****
+2024-05-09 07:10:46 INFO  TC001_AccountRegistrationTest:21 - Clicked on MyAccount Link.. 
+2024-05-09 07:10:47 INFO  TC001_AccountRegistrationTest:24 - Clicked on Register Link.. 
+2024-05-09 07:10:47 INFO  TC001_AccountRegistrationTest:28 - Providing customer details...
+2024-05-09 07:10:48 INFO  TC001_AccountRegistrationTest:42 - Validating expected message..
+2024-05-09 07:10:48 INFO  TC001_AccountRegistrationTest:47 - Test passed
+2024-05-09 07:10:48 INFO  TC001_AccountRegistrationTest:56 - ***** Finished TC001_AccountRegistrationTest *****
+2024-05-09 07:10:53 INFO  TC002_LoginTest:16 - ****** Startign TC_002_LoginTest *****
+2024-05-09 07:10:55 INFO  TC002_LoginTest:41 - ****** Finished TC_002_LoginTest *****
+2024-11-20 18:03:46 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Infantom\Desktop\OpenCard\OpencartV121\crossbrowsertesting.xml
+
+2024-11-20 18:03:56 INFO  TC001_AccountRegistrationTest:15 - ***** Starting TC001_AccountRegistrationTest  ****
+2024-11-20 18:03:56 INFO  TC001_AccountRegistrationTest:15 - ***** Starting TC001_AccountRegistrationTest  ****
+2024-11-20 18:03:57 INFO  TC001_AccountRegistrationTest:21 - Clicked on MyAccount Link.. 
+2024-11-20 18:03:57 INFO  TC001_AccountRegistrationTest:21 - Clicked on MyAccount Link.. 
+2024-11-20 18:04:01 INFO  TC001_AccountRegistrationTest:15 - ***** Starting TC001_AccountRegistrationTest  ****
+2024-11-20 18:04:02 INFO  TC001_AccountRegistrationTest:21 - Clicked on MyAccount Link.. 
+2024-11-20 18:04:03 INFO  TC001_AccountRegistrationTest:24 - Clicked on Register Link.. 
+2024-11-20 18:04:03 INFO  TC001_AccountRegistrationTest:28 - Providing customer details...
+2024-11-20 18:04:04 INFO  TC001_AccountRegistrationTest:42 - Validating expected message..
+2024-11-20 18:04:04 INFO  TC001_AccountRegistrationTest:47 - Test passed
+2024-11-20 18:04:04 INFO  TC001_AccountRegistrationTest:56 - ***** Finished TC001_AccountRegistrationTest *****
+2024-11-20 18:04:07 ERROR TC001_AccountRegistrationTest:51 - Test failed: element not interactable
+  (Session info: chrome=130.0.6723.117)
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '20.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [add2ce1a52b35f71f9696b52855a57ce, clickElement {id=f.FE6BFC47416AC79B53A9B3DD2888463E.d.819E10613139557A7B309F257EF1EEE6.e.127}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 130.0.6723.117, chrome: {chromedriverVersion: 130.0.6723.116 (6ac35f94ae3..., userDataDir: C:\Users\Infantom\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:60768}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:60768/devtoo..., se:cdpVersion: 130.0.6723.117, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (add2ce1a52b35f71f9696b52855a57ce)] -> xpath: //a[normalize-space()='Register']]
+Session ID: add2ce1a52b35f71f9696b52855a57ce
+2024-11-20 18:04:07 INFO  TC001_AccountRegistrationTest:56 - ***** Finished TC001_AccountRegistrationTest *****
+2024-11-20 18:04:17 ERROR TC001_AccountRegistrationTest:51 - Test failed: element not interactable
+  (Session info: chrome=130.0.6723.117)
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '20.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [add2ce1a52b35f71f9696b52855a57ce, clickElement {id=f.FE6BFC47416AC79B53A9B3DD2888463E.d.819E10613139557A7B309F257EF1EEE6.e.127}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 130.0.6723.117, chrome: {chromedriverVersion: 130.0.6723.116 (6ac35f94ae3..., userDataDir: C:\Users\Infantom\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:60768}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:60768/devtoo..., se:cdpVersion: 130.0.6723.117, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (add2ce1a52b35f71f9696b52855a57ce)] -> xpath: //a[normalize-space()='Register']]
+Session ID: add2ce1a52b35f71f9696b52855a57ce
+2024-11-20 18:04:17 INFO  TC001_AccountRegistrationTest:56 - ***** Finished TC001_AccountRegistrationTest *****
